@@ -11,7 +11,7 @@ Currently supported games:
 * Fallout 4 (untested)
 
 ## How to Use
-1. Go to releases and download the .zip file.
+1. Go to releases and download the maccp.zip file.
 2. Extract the contents into your computer somewhere
 3. There should be a `config.ini` file and set the value for `Game` to the appropriate number. By default, it is set to `0` for `Skyrim Special Edition`.
 
